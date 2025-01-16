@@ -1,1 +1,1 @@
-here upload Persons Images
+Inside this folder the person images are stored
